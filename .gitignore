@@ -1,3 +1,4 @@
+.gitignore
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +170,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+src/.vscode/settings.json
+src/threads/gtk3-assets.svg
+src/threads/simple.css
+src/threads/gtk.css
+src/Legacy/worker_threads.py
+.gitignore
